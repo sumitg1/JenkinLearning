@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 public class LearningTest extends test {
 
 	@Test
-	public void testEasy() throws InterruptedException {
+	public void Sumit() throws InterruptedException {
 
 		driver.get("http://www.google.com");
 		Thread.sleep(5000);
